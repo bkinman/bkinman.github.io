@@ -1,7 +1,7 @@
 Title: Becoming organized.
 Date: 2016-01-09 3:36 PM
 Modified: 2016-01-09 3:36
-Category: None
+Category: Articles
 Tags: Organization
 Slug: organized
 Authors: Brandon Kinman

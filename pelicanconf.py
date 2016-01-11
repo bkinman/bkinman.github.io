@@ -33,3 +33,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# A list of tuples (Title, URL) for additional menu items to appear at the
+# beginning of the main menu.
+MENUITEMS = (('Home','/'),)
